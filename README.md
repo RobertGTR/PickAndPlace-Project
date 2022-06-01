@@ -3,10 +3,10 @@ Pick&amp;Place Project is an arduino car with a 3DOF robotic arm attached to it 
 
 Components:
 
-Arduino Uno         x1
-Bluetooth HC-05     x1
-SG90S ServoMotors   x4
-Motor Driver L298n  x1
-6v DC Motor-Gearbox x4
-Ultrasonic Sensor HC-SR04 x1
-9v Batteries x2
+Arduino Uno         x1;
+Bluetooth HC-05     x1;
+SG90S ServoMotors   x4;
+Motor Driver L298n  x1;
+6v DC Motor-Gearbox x4;
+Ultrasonic Sensor HC-SR04 x1;
+9v Batteries        x2;
